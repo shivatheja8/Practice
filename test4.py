@@ -1,4 +1,4 @@
-test_string = "shivatheja"
+test_string = "rishabhs"
 
 half_idx = len(test_string) // 2
 
